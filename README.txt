@@ -13,6 +13,7 @@ Otherwise consider JOOQ for SQL generation : https://www.jooq.org/doc/3.14/manua
 - No data model in Java (no domain classes, no ORM)
 - Generates entry forms using SQL column types, column metadata (nullable, check constraints, etc)
 - HTML input types and relationship navigation are chosen by convention 
+ - See https://www.w3schools.com/tags/tag_input.asp
  - radio buttons, combo boxes for smaller or bigger finite value set properties based on check constraint
  - checkboxes for bit and boolean types
  - number fields with min/max from check constraints
