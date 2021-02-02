@@ -27,4 +27,4 @@ Otherwise consider JOOQ for SQL generation : https://www.jooq.org/doc/3.14/manua
  Base URL pattern: http://site/schema/table/ and follow RESTful approach
  
  Generated SQL
- 
+
